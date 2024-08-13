@@ -1,7 +1,8 @@
 {
 	"lang": "ko",
-	"mode_comment": "horz(horizontal) or vert(vertical)",
+	"mode_comment": "h(horizontal) or v(vertical)",
 	"mode": "horz",
 	"run_comment": "cpu, gpu(Nvidia)",
-	"run": "cpu"
+	"run": "cpu",
+	"auto_update": true
 }

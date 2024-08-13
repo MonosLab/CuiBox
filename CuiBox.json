@@ -1,6 +1,6 @@
 {
 	"lang": "ko",
-	"mode_comment": "h(horizontal) or v(vertical)",
+	"mode_comment": "horz(horizontal) or vert(vertical)",
 	"mode": "horz",
 	"run_comment": "cpu, gpu(Nvidia)",
 	"run": "cpu"

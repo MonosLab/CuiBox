@@ -4,5 +4,6 @@
 	"mode": "horz",
 	"run_comment": "cpu, gpu (* for Nvidia)",
 	"run": "cpu",
-	"auto_update": true
+	"auto_update": true,
+	"save_path": "ComfyUI\\output\\"
 }

@@ -1,0 +1,14 @@
+{
+    "files": [
+        {
+            "name": "CuiBox.exe",
+            "dir": "",
+            "ver": 1
+        },
+        {
+            "name": "WebView2Loader.dll",
+            "dir": "",
+            "ver": 1
+        }
+    ]
+}
